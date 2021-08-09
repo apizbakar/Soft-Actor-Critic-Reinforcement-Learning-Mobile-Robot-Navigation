@@ -5,5 +5,4 @@ The objective of the reinforcement learning algorithm is to learn what controls 
 This example uses an occupancy map of a known environment to generate range sensor readings, detect obstacles, and check collisions the robot may make. 
 The range sensor readings are the observations for the SAC agent, and the linear and angular velocity controls are the action.
 
-
-# main live scripts and functions(SAC_Mobile_robot_navigation.mlx) 
+ main live scripts and functions(SAC_Mobile_robot_navigation.mlx) 
